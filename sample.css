@@ -1,0 +1,14 @@
+.nice-box {
+  margins: 20px;
+  padding: 10px;
+  background-color: Wheat;
+}
+
+.bordered {
+  border: solid 2px blue;
+}
+
+.alert {
+  color: red;
+  font-weight: bold;
+}
